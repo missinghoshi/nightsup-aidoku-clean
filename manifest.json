@@ -1,0 +1,13 @@
+{
+  "id": "nightsup_clean",
+  "name": "NightSup Clean",
+  "version": "1.0.0",
+  "lang": "en",
+  "author": "missinghoshi",
+  "nsfw": false,
+  "contentRating": "safe",
+  "description": "Clean WP-Manga source template for nightsup.net",
+  "website": "https://nightsup.net",
+  "sourceCode": "https://github.com/missinghoshi/nightsup-aidoku-clean",
+  "main": "source.lua"
+}
